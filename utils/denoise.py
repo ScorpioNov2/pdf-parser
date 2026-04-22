@@ -4,9 +4,6 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 from fitz import Page
-from utils.denoise_methods import DenoiseMethods
-
-dn_methods = DenoiseMethods()
 
 # ─────────────────────────────────────────────
 # 2. Metrics
